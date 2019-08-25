@@ -27,6 +27,6 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 # Execution
 
-Clone/download this repository and run the Navigation Notebook.
+Clone/download this repository and run the *Navigation.ipynb* notebook (further instructions are provided in the notebook itself)
 The Unity enviroroment is provided by Udacity as reported [here](https://github.com/udacity/deep-reinforcement-learning/blob/master/p1_navigation/README.md)
 
